@@ -1,0 +1,3 @@
+I used the first FASTQ file from run `SRR23296021`.
+
+Data quality verification acts as the first step before doing any further analysis. It helps us understand the data that we are using. It also helps us find any problems with the data or any outliers. By doing this, we can isolate and better handle any corner cases, avoiding any unexpected or misleading results that could appear later on. In variant analysis, this helps prevent sequencing errors from being mistaken for real variants.
